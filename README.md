@@ -9,5 +9,5 @@ LeetCode solutions in Rust 🦀
 
 | Title      | Solution                           | Difficulty            |
 | ---------- | ---------------------------------- | --------------------- |
-| 1. Two Sum | [📑](src/solutions/easy/two_sum.rs) | ![Easy](img/Easy.svg) |
+| 1. Two Sum | [📑](src/solutions/easy/two_sum.rs) | ![Easy](img/easy.svg) |
 
