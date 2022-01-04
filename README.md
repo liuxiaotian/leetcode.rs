@@ -7,7 +7,8 @@ LeetCode solutions in Rust 🦀
 
 ## Solved
 
-| Title      | Solution                           | Difficulty            |
-| ---------- | ---------------------------------- | --------------------- |
-| 1. Two Sum | [📑](src/solutions/easy/two_sum.rs) | ![Easy](img/easy.svg) |
+| Title              | Solution                                     | Difficulty                |
+| ------------------ | -------------------------------------------- | ------------------------- |
+| 1. Two Sum         | [📑](src/solutions/easy/two_sum.rs)           | ![Easy](img/easy.svg)     |
+| 2. Add Two Numbers | [📑](src/solutions/medium/add_two_numbers.rs) | ![Medium](img/medium.svg) |
 
