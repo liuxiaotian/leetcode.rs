@@ -6,3 +6,5 @@ pub mod medium;
 pub use easy::TwoSum;
 #[doc(inline)]
 pub use medium::AddTwoNumbers;
+#[doc(inline)]
+pub use medium::LongestSubstringWithoutRepeatingCharacters;
