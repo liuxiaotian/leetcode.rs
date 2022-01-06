@@ -12,4 +12,5 @@ LeetCode solutions in Rust 🦀
 | 1. Two Sum                                        | [📑](src/solutions/easy/two_sum.rs)                           | ![Easy](img/easy.svg)     |
 | 2. Add Two Numbers                                | [📑](src/solutions/medium/add_two_numbers.rs)                 | ![Medium](img/medium.svg) |
 | 3. Longest Substring Without Repeating Characters | [📑](src/solutions/medium/longest_substring_without_repeating_characters.rs) | ![Medium](img/medium.svg) |
+| 1185. Day of the Week                             | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
 
