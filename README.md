@@ -7,11 +7,12 @@ LeetCode solutions in Rust 🦀
 
 ## Solved
 
-| Title                                             | Solution                                                     | Difficulty                |
-| ------------------------------------------------- | ------------------------------------------------------------ | ------------------------- |
-| 1. Two Sum                                        | [📑](src/solutions/easy/two_sum.rs)                           | ![Easy](img/easy.svg)     |
-| 2. Add Two Numbers                                | [📑](src/solutions/medium/add_two_numbers.rs)                 | ![Medium](img/medium.svg) |
-| 3. Longest Substring Without Repeating Characters | [📑](src/solutions/medium/longest_substring_without_repeating_characters.rs) | ![Medium](img/medium.svg) |
-| 1185. Day of the Week                             | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
-| 1614. Maximum Nesting Depth of the Parentheses    | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |
+| Title                                                        | Solution                                                     | Difficulty                |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
+| 1. Two Sum                                                   | [📑](src/solutions/easy/two_sum.rs)                           | ![Easy](img/easy.svg)     |
+| 2. Add Two Numbers                                           | [📑](src/solutions/medium/add_two_numbers.rs)                 | ![Medium](img/medium.svg) |
+| 3. Longest Substring Without Repeating Characters            | [📑](src/solutions/medium/longest_substring_without_repeating_characters.rs) | ![Medium](img/medium.svg) |
+| 1185. Day of the Week                                        | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
+| 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [📑](src/solutions/easy/replace_all_s_to_avoid_consecutive_repeating_characters.rs) | ![Easy](img/easy.svg)     |
+| 1614. Maximum Nesting Depth of the Parentheses               | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |
 
