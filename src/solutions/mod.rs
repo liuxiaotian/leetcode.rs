@@ -9,6 +9,8 @@ pub use easy::MaximumNestingDepthOfTheParenteses;
 #[doc(inline)]
 pub use easy::ReplaceAllSToAvoidConsecutiveRepeatingCharacters;
 #[doc(inline)]
+pub use easy::SlowestKey;
+#[doc(inline)]
 pub use easy::TwoSum;
 #[doc(inline)]
 pub use medium::AddTwoNumbers;

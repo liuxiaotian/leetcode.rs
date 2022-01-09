@@ -16,4 +16,5 @@ LeetCode solutions in Rust 🦀
 | 1185. Day of the Week                                        | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
 | 1576. Replace All ?'s to Avoid Consecutive Repeating Characters | [📑](src/solutions/easy/replace_all_s_to_avoid_consecutive_repeating_characters.rs) | ![Easy](img/easy.svg)     |
 | 1614. Maximum Nesting Depth of the Parentheses               | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |
+| 1629. Slowest Key                                            | [📑](src/solutions/easy/slowest_key.rs)                       | ![Easy](img/easy.svg)     |
 
