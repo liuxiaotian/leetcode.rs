@@ -15,6 +15,8 @@ pub use easy::TwoSum;
 #[doc(inline)]
 pub use medium::AddTwoNumbers;
 #[doc(inline)]
+pub use medium::AdditiveNumber;
+#[doc(inline)]
 pub use medium::GrayCode;
 #[doc(inline)]
 pub use medium::LongestSubstringWithoutRepeatingCharacters;
