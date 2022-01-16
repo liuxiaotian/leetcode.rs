@@ -21,4 +21,5 @@ LeetCode solutions in Rust 🦀
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [📑](src/solutions/easy/replace_all_s_to_avoid_consecutive_repeating_characters.rs) | ![Easy](img/easy.svg)     |
 | 1614 | Maximum Nesting Depth of the Parentheses                  | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |
 | 1629 | Slowest Key                                               | [📑](src/solutions/easy/slowest_key.rs)                       | ![Easy](img/easy.svg)     |
+| 1716 | Calculate Money in Leetcode Bank                          | [📑](src/solutions/easy/calculate_money_in_leetcode_bank.rs)  | ![Easy](img/easy.svg)     |
 
