@@ -15,6 +15,7 @@ LeetCode solutions in Rust 🦀
 | 89   | Gray Code                                                 | [📑](src/solutions/medium/gray_code.rs)                       | ![Medium](img/medium.svg) |
 | 306  | Additive Number                                           | [📑](src/solutions/medium/additive_number.rs)                 | ![Medium](img/medium.svg) |
 | 334  | Increasing Triplet Subsequence                            | [📑](src/solutions/medium/increasing_triplet_subsequence.rs)  | ![Medium](img/medium.svg) |
+| 539  | Minimum Time Difference                                   | [📑](src/solutions/medium/minimum_time_difference.rs)         | ![Medium](img/medium.svg) |
 | 747  | Largest Number At Least Twice of Others                   | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
 | 1036 | Escape a Large Maze                                       | [📑](src/solutions/hard/escape_a_large_maze.rs)               | ![Hard](img/hard.svg)     |
 | 1185 | Day of the Week                                           | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |

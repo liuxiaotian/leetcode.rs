@@ -30,3 +30,5 @@ pub use medium::GrayCode;
 pub use medium::IncreasingTripletSubsequence;
 #[doc(inline)]
 pub use medium::LongestSubstringWithoutRepeatingCharacters;
+#[doc(inline)]
+pub use medium::MinimumTimeDifference;

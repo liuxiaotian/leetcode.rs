@@ -3,6 +3,7 @@ pub mod additive_number;
 pub mod gray_code;
 pub mod increasing_triplet_subsequence;
 pub mod longest_substring_without_repeating_characters;
+pub mod minimum_time_difference;
 
 #[doc(inline)]
 pub use add_two_numbers::Solution as AddTwoNumbers;
@@ -14,3 +15,5 @@ pub use gray_code::Solution as GrayCode;
 pub use increasing_triplet_subsequence::Solution as IncreasingTripletSubsequence;
 #[doc(inline)]
 pub use longest_substring_without_repeating_characters::Solution as LongestSubstringWithoutRepeatingCharacters;
+#[doc(inline)]
+pub use minimum_time_difference::Solution as MinimumTimeDifference;
