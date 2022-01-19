@@ -5,6 +5,8 @@ pub mod medium;
 #[doc(inline)]
 pub use easy::CalculateMoneyInLeetcodeBank;
 #[doc(inline)]
+pub use easy::ContainsDuplicateII;
+#[doc(inline)]
 pub use easy::DayOfTheWeek;
 #[doc(inline)]
 pub use easy::LargestNumberAtLeastTwiceOfOthers;
