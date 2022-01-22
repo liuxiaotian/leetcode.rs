@@ -21,6 +21,7 @@ LeetCode solutions in Rust 🦀
 | 1036 | Escape a Large Maze                                       | [📑](src/solutions/hard/escape_a_large_maze.rs)               | ![Hard](img/hard.svg)     |
 | 1185 | Day of the Week                                           | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
 | 1220 | Count Vowels Permutation                                  | [📑](src/solutions/hard/count_vowels_permutation.rs)          | ![Hard](img/hard.svg)     |
+| 1332 | Remove Palindromic Subsequences                           | [📑](src/solutions/easy/remove_palindromic_subsequences.rs)   | ![Easy](img/easy.svg)     |
 | 1345 | Jump Game IV                                              | [📑](src/solutions/hard/jump_game_iv.rs)                      | ![Hard](img/hard.svg)     |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters | [📑](src/solutions/easy/replace_all_s_to_avoid_consecutive_repeating_characters.rs) | ![Easy](img/easy.svg)     |
 | 1614 | Maximum Nesting Depth of the Parentheses                  | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |

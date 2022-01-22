@@ -13,6 +13,8 @@ pub use easy::LargestNumberAtLeastTwiceOfOthers;
 #[doc(inline)]
 pub use easy::MaximumNestingDepthOfTheParenteses;
 #[doc(inline)]
+pub use easy::RemovePalindromicSubsequences;
+#[doc(inline)]
 pub use easy::ReplaceAllSToAvoidConsecutiveRepeatingCharacters;
 #[doc(inline)]
 pub use easy::SlowestKey;
