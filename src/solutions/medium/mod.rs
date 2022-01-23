@@ -4,6 +4,7 @@ pub mod gray_code;
 pub mod increasing_triplet_subsequence;
 pub mod longest_substring_without_repeating_characters;
 pub mod minimum_time_difference;
+pub mod stock_price_fluctuation;
 pub mod stone_game_ix;
 
 #[doc(inline)]
@@ -18,5 +19,7 @@ pub use increasing_triplet_subsequence::Solution as IncreasingTripletSubsequence
 pub use longest_substring_without_repeating_characters::Solution as LongestSubstringWithoutRepeatingCharacters;
 #[doc(inline)]
 pub use minimum_time_difference::Solution as MinimumTimeDifference;
+#[doc(inline)]
+pub use stock_price_fluctuation::StockPrice as StockPriceFluctuation;
 #[doc(inline)]
 pub use stone_game_ix::Solution as StoneGameIX;

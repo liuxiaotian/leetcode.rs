@@ -28,4 +28,5 @@ LeetCode solutions in Rust 🦀
 | 1629 | Slowest Key                                               | [📑](src/solutions/easy/slowest_key.rs)                       | ![Easy](img/easy.svg)     |
 | 1716 | Calculate Money in Leetcode Bank                          | [📑](src/solutions/easy/calculate_money_in_leetcode_bank.rs)  | ![Easy](img/easy.svg)     |
 | 2029 | Stone Game IX                                             | [📑](src/solutions/medium/stone_game_ix.rs)                   | ![Medium](img/medium.svg) |
+| 2034 | Stock Price Fluctuation                                   | [📑](src/solutions/medium/stock_price_fluctuation.rs)         | ![Medium](img/medium.svg) |
 
