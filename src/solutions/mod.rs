@@ -27,6 +27,8 @@ pub use hard::EscapeALargeMaze;
 #[doc(inline)]
 pub use hard::JumpGameIV;
 #[doc(inline)]
+pub use hard::SecondMinimumTimeToReachDestination;
+#[doc(inline)]
 pub use medium::AddTwoNumbers;
 #[doc(inline)]
 pub use medium::AdditiveNumber;
