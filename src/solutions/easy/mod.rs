@@ -1,5 +1,6 @@
 pub mod calculate_money_in_leetcode_bank;
 pub mod contains_duplicate_ii;
+pub mod count_of_matches_in_tournament;
 pub mod day_of_the_week;
 pub mod largest_number_at_least_twice_of_others;
 pub mod maximum_nesting_depth_of_the_parentheses;
@@ -12,6 +13,8 @@ pub mod two_sum;
 pub use calculate_money_in_leetcode_bank::Solution as CalculateMoneyInLeetcodeBank;
 #[doc(inline)]
 pub use contains_duplicate_ii::Solution as ContainsDuplicateII;
+#[doc(inline)]
+pub use count_of_matches_in_tournament::Solution as CountOfMatchesInTournament;
 #[doc(inline)]
 pub use day_of_the_week::Solution as DayOfTheWeek;
 #[doc(inline)]
