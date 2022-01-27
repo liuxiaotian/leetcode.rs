@@ -32,4 +32,5 @@ LeetCode solutions in Rust 🦀
 | 2029 | Stone Game IX                                             | [📑](src/solutions/medium/stone_game_ix.rs)                   | ![Medium](img/medium.svg) |
 | 2034 | Stock Price Fluctuation                                   | [📑](src/solutions/medium/stock_price_fluctuation.rs)         | ![Medium](img/medium.svg) |
 | 2045 | Second Minimum Time to Reach Destination                  | [📑](src/solutions/hard/second_minimum_time_to_reach_destination.rs) | ![Hard](img/hard.svg)     |
+| 2047 | Number of Valid Words in a Sentence                       | [📑](src/solutions/easy/number_of_valid_words_in_a_sentence.rs)      | ![Easy](img/easy.svg)     |
 
