@@ -50,3 +50,5 @@ pub use medium::MinimumTimeDifference;
 pub use medium::StockPriceFluctuation;
 #[doc(inline)]
 pub use medium::StoneGameIX;
+#[doc(inline)]
+pub use medium::TheNumberOfWeakCharactersInTheGame;

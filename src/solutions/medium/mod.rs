@@ -7,6 +7,7 @@ pub mod longest_substring_without_repeating_characters;
 pub mod minimum_time_difference;
 pub mod stock_price_fluctuation;
 pub mod stone_game_ix;
+pub mod the_number_of_weak_characters_in_the_game;
 
 #[doc(inline)]
 pub use add_two_numbers::Solution as AddTwoNumbers;
@@ -26,3 +27,5 @@ pub use minimum_time_difference::Solution as MinimumTimeDifference;
 pub use stock_price_fluctuation::StockPrice as StockPriceFluctuation;
 #[doc(inline)]
 pub use stone_game_ix::Solution as StoneGameIX;
+#[doc(inline)]
+pub use the_number_of_weak_characters_in_the_game::Solution as TheNumberOfWeakCharactersInTheGame;
