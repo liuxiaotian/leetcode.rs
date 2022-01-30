@@ -9,6 +9,7 @@ pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
 pub mod slowest_key;
 pub mod two_sum;
+pub mod uncommon_words_from_two_sentences;
 
 #[doc(inline)]
 pub use calculate_money_in_leetcode_bank::Solution as CalculateMoneyInLeetcodeBank;
@@ -32,3 +33,5 @@ pub use replace_all_s_to_avoid_consecutive_repeating_characters::Solution as Rep
 pub use slowest_key::Solution as SlowestKey;
 #[doc(inline)]
 pub use two_sum::Solution as TwoSum;
+#[doc(inline)]
+pub use uncommon_words_from_two_sentences::Solution as UncommonWordsFromTwoSentences;

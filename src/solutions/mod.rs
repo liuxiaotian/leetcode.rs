@@ -25,6 +25,8 @@ pub use easy::SlowestKey;
 #[doc(inline)]
 pub use easy::TwoSum;
 #[doc(inline)]
+pub use easy::UncommonWordsFromTwoSentences;
+#[doc(inline)]
 pub use hard::CountVowelsPermutation;
 #[doc(inline)]
 pub use hard::EscapeALargeMaze;
