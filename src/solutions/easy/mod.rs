@@ -4,6 +4,7 @@ pub mod count_of_matches_in_tournament;
 pub mod day_of_the_week;
 pub mod largest_number_at_least_twice_of_others;
 pub mod maximum_nesting_depth_of_the_parentheses;
+pub mod number_of_steps_to_reduce_a_number_to_zero;
 pub mod number_of_valid_words_in_a_sentence;
 pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
@@ -23,6 +24,8 @@ pub use day_of_the_week::Solution as DayOfTheWeek;
 pub use largest_number_at_least_twice_of_others::Solution as LargestNumberAtLeastTwiceOfOthers;
 #[doc(inline)]
 pub use maximum_nesting_depth_of_the_parentheses::Solution as MaximumNestingDepthOfTheParenteses;
+#[doc(inline)]
+pub use number_of_steps_to_reduce_a_number_to_zero::Solution as NumberOfStepsToReduceANumberToZero;
 #[doc(inline)]
 pub use number_of_valid_words_in_a_sentence::Solution as NumberOfValidWordsInASentence;
 #[doc(inline)]
