@@ -1,3 +1,4 @@
+/// Solution for [306. Additive Number(https://leetcode-cn.com/problems/additive-number/)
 pub struct Solution {}
 
 impl Solution {
