@@ -23,6 +23,8 @@ pub use easy::RemovePalindromicSubsequences;
 #[doc(inline)]
 pub use easy::ReplaceAllSToAvoidConsecutiveRepeatingCharacters;
 #[doc(inline)]
+pub use easy::ReversePrefixOfWord;
+#[doc(inline)]
 pub use easy::SlowestKey;
 #[doc(inline)]
 pub use easy::TwoSum;

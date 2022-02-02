@@ -31,6 +31,7 @@ LeetCode solutions in Rust 🦀
 | 1688 | Count of Matches in Tournament                            | [📑](src/solutions/easy/count_of_matches_in_tournament.rs)    | ![Easy](img/easy.svg)     |
 | 1716 | Calculate Money in Leetcode Bank                          | [📑](src/solutions/easy/calculate_money_in_leetcode_bank.rs)  | ![Easy](img/easy.svg)     |
 | 1996 | The Number of Weak Characters in the Game                 | [📑](src/solutions/medium/the_number_of_weak_characters_in_the_game) | ![Medium](img/medium.svg) |
+| 2000 | Reverse Prefix of Word                                    | [📑](src/solutions/easy/reverse_prefix_of_word.rs)            | ![Easy](img/easy.svg)     |
 | 2013 | Detect Squares                                            | [📑](src/solutions/medium/detect_squares.rs)                  | ![Medium](img/medium.svg) |
 | 2029 | Stone Game IX                                             | [📑](src/solutions/medium/stone_game_ix.rs)                   | ![Medium](img/medium.svg) |
 | 2034 | Stock Price Fluctuation                                   | [📑](src/solutions/medium/stock_price_fluctuation.rs)         | ![Medium](img/medium.svg) |

@@ -8,6 +8,7 @@ pub mod number_of_steps_to_reduce_a_number_to_zero;
 pub mod number_of_valid_words_in_a_sentence;
 pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
+pub mod reverse_prefix_of_word;
 pub mod slowest_key;
 pub mod two_sum;
 pub mod uncommon_words_from_two_sentences;
@@ -32,6 +33,8 @@ pub use number_of_valid_words_in_a_sentence::Solution as NumberOfValidWordsInASe
 pub use remove_palindromic_subsequences::Solution as RemovePalindromicSubsequences;
 #[doc(inline)]
 pub use replace_all_s_to_avoid_consecutive_repeating_characters::Solution as ReplaceAllSToAvoidConsecutiveRepeatingCharacters;
+#[doc(inline)]
+pub use reverse_prefix_of_word::Solution as ReversePrefixOfWord;
 #[doc(inline)]
 pub use slowest_key::Solution as SlowestKey;
 #[doc(inline)]
