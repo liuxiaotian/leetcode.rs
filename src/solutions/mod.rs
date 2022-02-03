@@ -45,6 +45,8 @@ pub use medium::AdditiveNumber;
 #[doc(inline)]
 pub use medium::DetectSquares;
 #[doc(inline)]
+pub use medium::FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK;
+#[doc(inline)]
 pub use medium::GrayCode;
 #[doc(inline)]
 pub use medium::IncreasingTripletSubsequence;
