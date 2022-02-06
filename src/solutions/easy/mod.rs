@@ -10,6 +10,7 @@ pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
 pub mod reverse_prefix_of_word;
 pub mod slowest_key;
+pub mod sum_of_unique_elements;
 pub mod two_sum;
 pub mod uncommon_words_from_two_sentences;
 
@@ -37,6 +38,8 @@ pub use replace_all_s_to_avoid_consecutive_repeating_characters::Solution as Rep
 pub use reverse_prefix_of_word::Solution as ReversePrefixOfWord;
 #[doc(inline)]
 pub use slowest_key::Solution as SlowestKey;
+#[doc(inline)]
+pub use sum_of_unique_elements::Solution as SumOfUniqueElements;
 #[doc(inline)]
 pub use two_sum::Solution as TwoSum;
 #[doc(inline)]

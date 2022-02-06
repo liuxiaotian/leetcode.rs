@@ -27,6 +27,8 @@ pub use easy::ReversePrefixOfWord;
 #[doc(inline)]
 pub use easy::SlowestKey;
 #[doc(inline)]
+pub use easy::SumOfUniqueElements;
+#[doc(inline)]
 pub use easy::TwoSum;
 #[doc(inline)]
 pub use easy::UncommonWordsFromTwoSentences;
