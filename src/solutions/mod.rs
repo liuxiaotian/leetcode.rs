@@ -53,6 +53,8 @@ pub use medium::GrayCode;
 #[doc(inline)]
 pub use medium::IncreasingTripletSubsequence;
 #[doc(inline)]
+pub use medium::LongestHappyString;
+#[doc(inline)]
 pub use medium::LongestSubstringWithoutRepeatingCharacters;
 #[doc(inline)]
 pub use medium::MinimumTimeDifference;

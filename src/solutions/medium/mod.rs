@@ -4,6 +4,7 @@ pub mod detect_squares;
 pub mod find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k;
 pub mod gray_code;
 pub mod increasing_triplet_subsequence;
+pub mod longest_happy_string;
 pub mod longest_substring_without_repeating_characters;
 pub mod minimum_time_difference;
 pub mod stock_price_fluctuation;
@@ -22,6 +23,8 @@ pub use find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k::Solution as
 pub use gray_code::Solution as GrayCode;
 #[doc(inline)]
 pub use increasing_triplet_subsequence::Solution as IncreasingTripletSubsequence;
+#[doc(inline)]
+pub use longest_happy_string::Solution as LongestHappyString;
 #[doc(inline)]
 pub use longest_substring_without_repeating_characters::Solution as LongestSubstringWithoutRepeatingCharacters;
 #[doc(inline)]
