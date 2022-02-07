@@ -20,12 +20,12 @@ LeetCode solutions in Rust 🦀
 | 747  | Largest Number At Least Twice of Others                     | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
 | 884  | Uncommon Words from Two Sentences                           | [📑](src/solutions/easy/uncommon_words_from_two_sentences.rs) | ![Easy](img/easy.svg)     |
 | 1036 | Escape a Large Maze                                         | [📑](src/solutions/hard/escape_a_large_maze.rs)               | ![Hard](img/hard.svg)     |
-| 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [📑](src/solutions/medium/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.rs) | ![Medium](img/medium.svg) |
 | 1185 | Day of the Week                                             | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
 | 1220 | Count Vowels Permutation                                    | [📑](src/solutions/hard/count_vowels_permutation.rs)          | ![Hard](img/hard.svg)     |
 | 1332 | Remove Palindromic Subsequences                             | [📑](src/solutions/easy/remove_palindromic_subsequences.rs)   | ![Easy](img/easy.svg)     |
 | 1342 | Number of Steps to Reduce a Number to Zero                  | [📑](src/solutions/easy/number_of_steps_to_reduce_a_number_to_zero.rs) | ![Easy](img/easy.svg)     |
 | 1345 | Jump Game IV                                                | [📑](src/solutions/hard/jump_game_iv.rs)                      | ![Hard](img/hard.svg)     |
+| 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [📑](src/solutions/medium/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.rs) | ![Medium](img/medium.svg) |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters   | [📑](src/solutions/easy/replace_all_s_to_avoid_consecutive_repeating_characters.rs) | ![Easy](img/easy.svg)     |
 | 1614 | Maximum Nesting Depth of the Parentheses                    | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |
 | 1629 | Slowest Key                                                 | [📑](src/solutions/easy/slowest_key.rs)                       | ![Easy](img/easy.svg)     |
