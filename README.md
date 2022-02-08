@@ -19,6 +19,7 @@ LeetCode solutions in Rust 🦀
 | 539  | Minimum Time Difference                                     | [📑](src/solutions/medium/minimum_time_difference.rs)         | ![Medium](img/medium.svg) |
 | 747  | Largest Number At Least Twice of Others                     | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
 | 884  | Uncommon Words from Two Sentences                           | [📑](src/solutions/easy/uncommon_words_from_two_sentences.rs) | ![Easy](img/easy.svg)     |
+| 1001 | Grid Illumination                                           | [📑](src/solutions/hard/grid_illumination.rs)                 | ![Hard](img/hard.svg)     |
 | 1036 | Escape a Large Maze                                         | [📑](src/solutions/hard/escape_a_large_maze.rs)               | ![Hard](img/hard.svg)     |
 | 1185 | Day of the Week                                             | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
 | 1220 | Count Vowels Permutation                                    | [📑](src/solutions/hard/count_vowels_permutation.rs)          | ![Hard](img/hard.svg)     |

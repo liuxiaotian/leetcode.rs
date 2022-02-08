@@ -37,6 +37,8 @@ pub use hard::CountVowelsPermutation;
 #[doc(inline)]
 pub use hard::EscapeALargeMaze;
 #[doc(inline)]
+pub use hard::GridIllumination;
+#[doc(inline)]
 pub use hard::JumpGameIV;
 #[doc(inline)]
 pub use hard::SecondMinimumTimeToReachDestination;
