@@ -1,5 +1,6 @@
 pub mod calculate_money_in_leetcode_bank;
 pub mod contains_duplicate_ii;
+pub mod count_number_of_pairs_with_absolute_difference_k;
 pub mod count_of_matches_in_tournament;
 pub mod day_of_the_week;
 pub mod largest_number_at_least_twice_of_others;
@@ -18,6 +19,8 @@ pub mod uncommon_words_from_two_sentences;
 pub use calculate_money_in_leetcode_bank::Solution as CalculateMoneyInLeetcodeBank;
 #[doc(inline)]
 pub use contains_duplicate_ii::Solution as ContainsDuplicateII;
+#[doc(inline)]
+pub use count_number_of_pairs_with_absolute_difference_k::Solution as CountNumberOfPairsWithAbsoluteDifferenceK;
 #[doc(inline)]
 pub use count_of_matches_in_tournament::Solution as CountOfMatchesInTournament;
 #[doc(inline)]

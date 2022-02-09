@@ -7,6 +7,8 @@ pub use easy::CalculateMoneyInLeetcodeBank;
 #[doc(inline)]
 pub use easy::ContainsDuplicateII;
 #[doc(inline)]
+pub use easy::CountNumberOfPairsWithAbsoluteDifferenceK;
+#[doc(inline)]
 pub use easy::CountOfMatchesInTournament;
 #[doc(inline)]
 pub use easy::DayOfTheWeek;

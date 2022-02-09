@@ -35,7 +35,8 @@ LeetCode solutions in Rust 🦀
 | 1716 | Calculate Money in Leetcode Bank                            | [📑](src/solutions/easy/calculate_money_in_leetcode_bank.rs)  | ![Easy](img/easy.svg)     |
 | 1748 | Sum of Unique Elements                                      | [📑](src/solutions/easy/sum_of_unique_elements.rs)            | ![Easy](img/easy.svg)     |
 | 1996 | The Number of Weak Characters in the Game                   | [📑](src/solutions/medium/the_number_of_weak_characters_in_the_game) | ![Medium](img/medium.svg) |
-| 2000 | Reverse Prefix of Word                                      | [📑](src/solutions/easy/reverse_prefix_of_word.rs)            | ![Easy](img/easy.svg)     |
+| 2006 | Count Number of Pairs With Absolute Difference K            | [📑](src/solutions/easy/count_number_of_pairs_with_absolute_difference_k.rs) | ![Easy](img/easy.svg)     |
+| 2047 | Number of Valid Words in a Sentence                         | [📑](src/solutions/easy/number_of_valid_words_in_a_sentence.rs) | ![Easy](img/easy.svg)     |
 | 2013 | Detect Squares                                              | [📑](src/solutions/medium/detect_squares.rs)                  | ![Medium](img/medium.svg) |
 | 2029 | Stone Game IX                                               | [📑](src/solutions/medium/stone_game_ix.rs)                   | ![Medium](img/medium.svg) |
 | 2034 | Stock Price Fluctuation                                     | [📑](src/solutions/medium/stock_price_fluctuation.rs)         | ![Medium](img/medium.svg) |
