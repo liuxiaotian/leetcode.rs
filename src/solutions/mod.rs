@@ -63,6 +63,8 @@ pub use medium::LongestSubstringWithoutRepeatingCharacters;
 #[doc(inline)]
 pub use medium::MinimumTimeDifference;
 #[doc(inline)]
+pub use medium::SimplifiedFractions;
+#[doc(inline)]
 pub use medium::StockPriceFluctuation;
 #[doc(inline)]
 pub use medium::StoneGameIX;

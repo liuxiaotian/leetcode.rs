@@ -28,6 +28,7 @@ LeetCode solutions in Rust 🦀
 | 1345 | Jump Game IV                                                | [📑](src/solutions/hard/jump_game_iv.rs)                      | ![Hard](img/hard.svg)     |
 | 1405 | Longest Happy String                                        | [📑](src/solutions/medium/longest_happy_string.rs)            | ![Medium](img/medium.svg) |
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [📑](src/solutions/medium/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.rs) | ![Medium](img/medium.svg) |
+| 1447 | Simplified Fractions                                        | [📑](src/solutions/medium/simplified_fractions.rs)            | ![Medium](img/medium.svg) |
 | 1576 | Replace All ?'s to Avoid Consecutive Repeating Characters   | [📑](src/solutions/easy/replace_all_s_to_avoid_consecutive_repeating_characters.rs) | ![Easy](img/easy.svg)     |
 | 1614 | Maximum Nesting Depth of the Parentheses                    | [📑](src/solutions/easy/maximum_nesting_depth_of_the_parentheses.rs) | ![Easy](img/easy.svg)     |
 | 1629 | Slowest Key                                                 | [📑](src/solutions/easy/slowest_key.rs)                       | ![Easy](img/easy.svg)     |
