@@ -7,6 +7,7 @@ pub mod increasing_triplet_subsequence;
 pub mod longest_happy_string;
 pub mod longest_substring_without_repeating_characters;
 pub mod minimum_time_difference;
+pub mod number_of_enclaves;
 pub mod simplified_fractions;
 pub mod stock_price_fluctuation;
 pub mod stone_game_ix;
@@ -30,6 +31,8 @@ pub use longest_happy_string::Solution as LongestHappyString;
 pub use longest_substring_without_repeating_characters::Solution as LongestSubstringWithoutRepeatingCharacters;
 #[doc(inline)]
 pub use minimum_time_difference::Solution as MinimumTimeDifference;
+#[doc(inline)]
+pub use number_of_enclaves::Solution as NumberOfEnclaves;
 #[doc(inline)]
 pub use simplified_fractions::Solution as SimplifiedFractions;
 #[doc(inline)]
