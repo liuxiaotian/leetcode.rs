@@ -17,6 +17,8 @@ pub use easy::LargestNumberAtLeastTwiceOfOthers;
 #[doc(inline)]
 pub use easy::MaximumNestingDepthOfTheParenteses;
 #[doc(inline)]
+pub use easy::MaximumNumberOfBalloons;
+#[doc(inline)]
 pub use easy::MinimumDifferenceBetweenHighestAndLowestOfKScores;
 #[doc(inline)]
 pub use easy::NumberOfStepsToReduceANumberToZero;

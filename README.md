@@ -23,6 +23,7 @@ LeetCode solutions in Rust 🦀
 | 1020 | Minimum Time Difference                                     | [📑](src/solutions/medium/number_of_enclaves.rs)              | ![Medium](img/medium.svg) |
 | 1036 | Escape a Large Maze                                         | [📑](src/solutions/hard/escape_a_large_maze.rs)               | ![Hard](img/hard.svg)     |
 | 1185 | Day of the Week                                             | [📑](src/solutions/easy/day_of_the_week.rs)                   | ![Easy](img/easy.svg)     |
+| 1189 | Maximum Number of Balloons                                  | [📑](src/solutions/easy/maximum_number_of_balloons.rs)        | ![Easy](img/easy.svg)     |
 | 1220 | Number of Enclaves                                          | [📑](src/solutions/hard/count_vowels_permutation.rs)          | ![Hard](img/hard.svg)     |
 | 1332 | Remove Palindromic Subsequences                             | [📑](src/solutions/easy/remove_palindromic_subsequences.rs)   | ![Easy](img/easy.svg)     |
 | 1342 | Number of Steps to Reduce a Number to Zero                  | [📑](src/solutions/easy/number_of_steps_to_reduce_a_number_to_zero.rs) | ![Easy](img/easy.svg)     |
