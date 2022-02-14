@@ -17,6 +17,7 @@ LeetCode solutions in Rust 🦀
 | 306  | Additive Number                                             | [📑](src/solutions/medium/additive_number.rs)                 | ![Medium](img/medium.svg) |
 | 334  | Increasing Triplet Subsequence                              | [📑](src/solutions/medium/increasing_triplet_subsequence.rs)  | ![Medium](img/medium.svg) |
 | 539  | Minimum Time Difference                                     | [📑](src/solutions/medium/minimum_time_difference.rs)         | ![Medium](img/medium.svg) |
+| 540  | Single Element in a Sorted Array                            | [📑](src/solutions/medium/single_element_in_a_stored_array.rs)      | ![Medium](img/medium.svg) |
 | 747  | Largest Number At Least Twice of Others                     | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
 | 884  | Uncommon Words from Two Sentences                           | [📑](src/solutions/easy/uncommon_words_from_two_sentences.rs) | ![Easy](img/easy.svg)     |
 | 1001 | Grid Illumination                                           | [📑](src/solutions/hard/grid_illumination.rs)                 | ![Hard](img/hard.svg)     |

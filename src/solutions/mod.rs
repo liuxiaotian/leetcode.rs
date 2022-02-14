@@ -71,6 +71,8 @@ pub use medium::NumberOfEnclaves;
 #[doc(inline)]
 pub use medium::SimplifiedFractions;
 #[doc(inline)]
+pub use medium::SingleElementInAStoredArray;
+#[doc(inline)]
 pub use medium::StockPriceFluctuation;
 #[doc(inline)]
 pub use medium::StoneGameIX;

@@ -9,6 +9,7 @@ pub mod longest_substring_without_repeating_characters;
 pub mod minimum_time_difference;
 pub mod number_of_enclaves;
 pub mod simplified_fractions;
+pub mod single_element_in_a_stored_array;
 pub mod stock_price_fluctuation;
 pub mod stone_game_ix;
 pub mod the_number_of_weak_characters_in_the_game;
@@ -35,6 +36,8 @@ pub use minimum_time_difference::Solution as MinimumTimeDifference;
 pub use number_of_enclaves::Solution as NumberOfEnclaves;
 #[doc(inline)]
 pub use simplified_fractions::Solution as SimplifiedFractions;
+#[doc(inline)]
+pub use single_element_in_a_stored_array::Solution as SingleElementInAStoredArray;
 #[doc(inline)]
 pub use stock_price_fluctuation::StockPrice as StockPriceFluctuation;
 #[doc(inline)]
