@@ -1,3 +1,4 @@
+/// Solution for [540. Single Element in a Sorted Array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/)
 pub struct Solution {}
 
 impl Solution {
