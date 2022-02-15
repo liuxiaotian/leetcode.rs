@@ -29,6 +29,7 @@ LeetCode solutions in Rust 🦀
 | 1332 | Remove Palindromic Subsequences                             | [📑](src/solutions/easy/remove_palindromic_subsequences.rs)   | ![Easy](img/easy.svg)     |
 | 1342 | Number of Steps to Reduce a Number to Zero                  | [📑](src/solutions/easy/number_of_steps_to_reduce_a_number_to_zero.rs) | ![Easy](img/easy.svg)     |
 | 1345 | Jump Game IV                                                | [📑](src/solutions/hard/jump_game_iv.rs)                      | ![Hard](img/hard.svg)     |
+| 1380 | Lucky Numbers in a Matrix                                   | [📑](src/solutions/easy/lucky_numbers_in_a_matrix.rs)         | ![Easy](img/easy.svg)     |
 | 1405 | Longest Happy String                                        | [📑](src/solutions/medium/longest_happy_string.rs)            | ![Medium](img/medium.svg) |
 | 1414 | Find the Minimum Number of Fibonacci Numbers Whose Sum Is K | [📑](src/solutions/medium/find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.rs) | ![Medium](img/medium.svg) |
 | 1447 | Simplified Fractions                                        | [📑](src/solutions/medium/simplified_fractions.rs)            | ![Medium](img/medium.svg) |
