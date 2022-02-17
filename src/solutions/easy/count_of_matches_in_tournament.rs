@@ -1,3 +1,4 @@
+/// Solution for [1688. Count of Matches in Tournament](https://leetcode-cn.com/problems/count-of-matches-in-tournament/)
 pub struct Solution {}
 
 impl Solution {

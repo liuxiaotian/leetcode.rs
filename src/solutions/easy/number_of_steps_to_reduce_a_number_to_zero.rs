@@ -1,3 +1,4 @@
+/// Solution for [1342. Number of Steps to Reduce a Number to Zero](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 pub struct Solution {}
 
 impl Solution {

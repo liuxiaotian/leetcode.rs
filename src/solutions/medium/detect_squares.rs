@@ -1,5 +1,6 @@
 use std::collections::HashMap;
 
+/// Solution for [2013. Detect Squares](https://leetcode-cn.com/problems/detect-squares/)
 pub struct DetectSquares {
     x2y_cnt_map: HashMap<i32, HashMap<i32, i32>>,
 }

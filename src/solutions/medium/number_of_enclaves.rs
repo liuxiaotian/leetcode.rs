@@ -1,5 +1,6 @@
 use std::collections::HashSet;
 
+/// Solution for [1020. Number of Enclaves](https://leetcode-cn.com/problems/number-of-enclaves/)
 pub struct Solution {}
 
 impl Solution {

@@ -1,3 +1,4 @@
+/// Solution for [2047. Number of Valid Words in a Sentence](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/)
 pub struct Solution {}
 
 impl Solution {

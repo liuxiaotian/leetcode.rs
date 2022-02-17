@@ -1,5 +1,6 @@
 use std::collections::HashMap;
 
+/// Solution for [884. Uncommon Words from Two Sentences](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/)
 pub struct Solution {}
 
 impl Solution {
