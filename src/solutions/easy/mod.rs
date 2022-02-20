@@ -10,6 +10,7 @@ pub mod maximum_number_of_balloons;
 pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
 pub mod number_of_steps_to_reduce_a_number_to_zero;
 pub mod number_of_valid_words_in_a_sentence;
+pub mod one_bit_and_two_bit_characters;
 pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
 pub mod reverse_prefix_of_word;
@@ -42,6 +43,8 @@ pub use minimum_difference_between_highest_and_lowest_of_k_scores::Solution as M
 pub use number_of_steps_to_reduce_a_number_to_zero::Solution as NumberOfStepsToReduceANumberToZero;
 #[doc(inline)]
 pub use number_of_valid_words_in_a_sentence::Solution as NumberOfValidWordsInASentence;
+#[doc(inline)]
+pub use one_bit_and_two_bit_characters::Solution as OneBitAndTwoBitCharacters;
 #[doc(inline)]
 pub use remove_palindromic_subsequences::Solution as RemovePalindromicSubsequences;
 #[doc(inline)]
