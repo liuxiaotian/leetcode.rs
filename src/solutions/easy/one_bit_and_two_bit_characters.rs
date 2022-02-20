@@ -26,6 +26,6 @@ mod tests {
 
     #[test]
     fn example_2() {
-        assert_eq!(Solution::is_one_bit_character(vec![1, 1, 1, 0]), true);
+        assert_eq!(Solution::is_one_bit_character(vec![1, 1, 1, 0]), false);
     }
 }
