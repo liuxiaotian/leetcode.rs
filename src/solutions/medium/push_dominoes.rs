@@ -23,7 +23,7 @@ impl Solution {
                     chars[i] = 'R';
                     chars[k] = 'L';
                     i += 1;
-                    k += 1;
+                    k -= 1;
                 }
             }
             left = right;
