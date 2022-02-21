@@ -53,6 +53,8 @@ pub use hard::JumpGameIV;
 #[doc(inline)]
 pub use hard::SecondMinimumTimeToReachDestination;
 #[doc(inline)]
+pub use medium::push_dominoes;
+#[doc(inline)]
 pub use medium::AddTwoNumbers;
 #[doc(inline)]
 pub use medium::AdditiveNumber;
