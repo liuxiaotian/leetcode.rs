@@ -13,6 +13,7 @@ pub mod number_of_valid_words_in_a_sentence;
 pub mod one_bit_and_two_bit_characters;
 pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
+pub mod reverse_only_letters;
 pub mod reverse_prefix_of_word;
 pub mod slowest_key;
 pub mod sum_of_unique_elements;
@@ -49,6 +50,8 @@ pub use one_bit_and_two_bit_characters::Solution as OneBitAndTwoBitCharacters;
 pub use remove_palindromic_subsequences::Solution as RemovePalindromicSubsequences;
 #[doc(inline)]
 pub use replace_all_s_to_avoid_consecutive_repeating_characters::Solution as ReplaceAllSToAvoidConsecutiveRepeatingCharacters;
+#[doc(inline)]
+pub use reverse_only_letters::Solution as ReverseOnlyLetters;
 #[doc(inline)]
 pub use reverse_prefix_of_word::Solution as ReversePrefixOfWord;
 #[doc(inline)]
