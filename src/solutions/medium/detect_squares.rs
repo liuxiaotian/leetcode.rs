@@ -10,13 +10,13 @@ pub struct DetectSquares {
  * If you need a mutable reference, change it to `&mut self` instead.
  */
 impl DetectSquares {
-    fn new() -> Self {
+    pub fn new() -> Self {
         DetectSquares {
             x2y_cnt_map: HashMap::new(),
         }
     }
 
-    fn add(&mut self, point: Vec<i32>) {
+    pub fn add(&mut self, point: Vec<i32>) {
         *self
             .x2y_cnt_map
             .entry(point[0])
@@ -25,7 +25,7 @@ impl DetectSquares {
             .or_insert(0) += 1;
     }
 
-    fn count(&self, point: Vec<i32>) -> i32 {
+    pub fn count(&self, point: Vec<i32>) -> i32 {
         let mut result = 0;
         if let Some(y_cnt_map) = self.x2y_cnt_map.get(&point[0]) {
             for (&y, &cnt) in y_cnt_map.iter() {

@@ -13,7 +13,7 @@ pub struct StockPrice {
  * If you need a mutable reference, change it to `&mut self` instead.
  */
 impl StockPrice {
-    fn new() -> Self {
+    pub fn new() -> Self {
         StockPrice {
             max_timestamp: 0,
             time_price: HashMap::new(),
@@ -21,7 +21,7 @@ impl StockPrice {
         }
     }
 
-    fn update(&mut self, timestamp: i32, price: i32) {
+    pub fn update(&mut self, timestamp: i32, price: i32) {
         self.max_timestamp = self.max_timestamp.max(timestamp);
         if let Some(last_timestamp) = self.time_price.insert(timestamp, price) {
             *self.prices.entry(last_timestamp).or_insert(0) -= 1;
@@ -32,15 +32,15 @@ impl StockPrice {
         *self.prices.entry(price).or_insert(0) += 1;
     }
 
-    fn current(&self) -> i32 {
+    pub fn current(&self) -> i32 {
         self.time_price[&self.max_timestamp]
     }
 
-    fn maximum(&self) -> i32 {
+    pub fn maximum(&self) -> i32 {
         *self.prices.iter().next_back().unwrap().0
     }
 
-    fn minimum(&self) -> i32 {
+    pub fn minimum(&self) -> i32 {
         *self.prices.iter().next().unwrap().0
     }
 }
