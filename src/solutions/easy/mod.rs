@@ -1,3 +1,4 @@
+pub mod add_digits;
 pub mod calculate_money_in_leetcode_bank;
 pub mod contains_duplicate_ii;
 pub mod count_number_of_pairs_with_absolute_difference_k;
@@ -20,6 +21,8 @@ pub mod sum_of_unique_elements;
 pub mod two_sum;
 pub mod uncommon_words_from_two_sentences;
 
+#[doc(inline)]
+pub use add_digits::Solution as AddDigits;
 #[doc(inline)]
 pub use calculate_money_in_leetcode_bank::Solution as CalculateMoneyInLeetcodeBank;
 #[doc(inline)]

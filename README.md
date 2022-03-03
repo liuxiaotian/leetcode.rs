@@ -14,6 +14,7 @@ LeetCode solutions in Rust 🦀
 | 3    | Longest Substring Without Repeating Characters              | [📑](src/solutions/medium/longest_substring_without_repeating_characters.rs) | ![Medium](img/medium.svg) |
 | 89   | Gray Code                                                   | [📑](src/solutions/medium/gray_code.rs)                       | ![Medium](img/medium.svg) |
 | 219  | Contains Duplicate II                                       | [📑](src/solutions/easy/contains_duplicate_ii.rs)             | ![Easy](img/easy.svg)     |
+| 258  | Add Digits                                                  | [📑](src/solutions/easy/add_digits.rs)                        | ![Easy](img/easy.svg)     |
 | 306  | Additive Number                                             | [📑](src/solutions/medium/additive_number.rs)                 | ![Medium](img/medium.svg) |
 | 334  | Increasing Triplet Subsequence                              | [📑](src/solutions/medium/increasing_triplet_subsequence.rs)  | ![Medium](img/medium.svg) |
 | 539  | Minimum Time Difference                                     | [📑](src/solutions/medium/minimum_time_difference.rs)         | ![Medium](img/medium.svg) |

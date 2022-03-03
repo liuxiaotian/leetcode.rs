@@ -3,6 +3,8 @@ pub mod hard;
 pub mod medium;
 
 #[doc(inline)]
+pub use easy::AddDigits;
+#[doc(inline)]
 pub use easy::CalculateMoneyInLeetcodeBank;
 #[doc(inline)]
 pub use easy::ContainsDuplicateII;
