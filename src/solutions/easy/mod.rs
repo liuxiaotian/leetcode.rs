@@ -5,6 +5,7 @@ pub mod count_number_of_pairs_with_absolute_difference_k;
 pub mod count_of_matches_in_tournament;
 pub mod day_of_the_week;
 pub mod largest_number_at_least_twice_of_others;
+pub mod longest_uncommon_subsequence_i;
 pub mod lucky_numbers_in_a_matrix;
 pub mod maximum_nesting_depth_of_the_parentheses;
 pub mod maximum_number_of_balloons;
@@ -35,6 +36,8 @@ pub use count_of_matches_in_tournament::Solution as CountOfMatchesInTournament;
 pub use day_of_the_week::Solution as DayOfTheWeek;
 #[doc(inline)]
 pub use largest_number_at_least_twice_of_others::Solution as LargestNumberAtLeastTwiceOfOthers;
+#[doc(inline)]
+pub use longest_uncommon_subsequence_i::Solution as LongestUncommonSubsequenceI;
 #[doc(inline)]
 pub use lucky_numbers_in_a_matrix::Solution as LuckyNumbersInAMatrix;
 #[doc(inline)]

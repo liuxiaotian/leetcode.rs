@@ -17,6 +17,8 @@ pub use easy::DayOfTheWeek;
 #[doc(inline)]
 pub use easy::LargestNumberAtLeastTwiceOfOthers;
 #[doc(inline)]
+pub use easy::LongestUncommonSubsequenceI;
+#[doc(inline)]
 pub use easy::LuckyNumbersInAMatrix;
 #[doc(inline)]
 pub use easy::MaximumNestingDepthOfTheParenteses;
