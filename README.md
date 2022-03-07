@@ -17,6 +17,7 @@ LeetCode solutions in Rust 🦀
 | 258  | Add Digits                                                  | [📑](src/solutions/easy/add_digits.rs)                        | ![Easy](img/easy.svg)     |
 | 306  | Additive Number                                             | [📑](src/solutions/medium/additive_number.rs)                 | ![Medium](img/medium.svg) |
 | 334  | Increasing Triplet Subsequence                              | [📑](src/solutions/medium/increasing_triplet_subsequence.rs)  | ![Medium](img/medium.svg) |
+| 504  | Base 7                                                      | [📑](src/solutions/easy/base_7.rs)                            | ![Easy](img/easy.svg)     |
 | 521  | Longest Uncommon Subsequence I                              | [📑](src/solutions/easy/longest_uncommon_subsequence_i.rs)    | ![Easy](img/easy.svg)     |
 | 539  | Minimum Time Difference                                     | [📑](src/solutions/medium/minimum_time_difference.rs)         | ![Medium](img/medium.svg) |
 | 540  | Single Element in a Sorted Array                            | [📑](src/solutions/medium/single_element_in_a_stored_array.rs)      | ![Medium](img/medium.svg) |
