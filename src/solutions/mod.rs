@@ -29,6 +29,8 @@ pub use easy::MaximumNumberOfBalloons;
 #[doc(inline)]
 pub use easy::MinimumDifferenceBetweenHighestAndLowestOfKScores;
 #[doc(inline)]
+pub use easy::MinimumIndexSumOfTwoLists;
+#[doc(inline)]
 pub use easy::NumberOfStepsToReduceANumberToZero;
 #[doc(inline)]
 pub use easy::NumberOfValidWordsInASentence;

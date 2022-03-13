@@ -11,6 +11,7 @@ pub mod lucky_numbers_in_a_matrix;
 pub mod maximum_nesting_depth_of_the_parentheses;
 pub mod maximum_number_of_balloons;
 pub mod minimum_difference_between_highest_and_lowest_of_k_scores;
+pub mod minimum_index_sum_of_two_lists;
 pub mod number_of_steps_to_reduce_a_number_to_zero;
 pub mod number_of_valid_words_in_a_sentence;
 pub mod one_bit_and_two_bit_characters;
@@ -49,6 +50,8 @@ pub use maximum_nesting_depth_of_the_parentheses::Solution as MaximumNestingDept
 pub use maximum_number_of_balloons::Solution as MaximumNumberOfBalloons;
 #[doc(inline)]
 pub use minimum_difference_between_highest_and_lowest_of_k_scores::Solution as MinimumDifferenceBetweenHighestAndLowestOfKScores;
+#[doc(inline)]
+pub use minimum_index_sum_of_two_lists::Solution as MinimumIndexSumOfTwoLists;
 #[doc(inline)]
 pub use number_of_steps_to_reduce_a_number_to_zero::Solution as NumberOfStepsToReduceANumberToZero;
 #[doc(inline)]
