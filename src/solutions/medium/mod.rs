@@ -9,6 +9,7 @@ pub mod longest_substring_without_repeating_characters;
 pub mod minimum_time_difference;
 pub mod number_of_enclaves;
 pub mod push_dominoes;
+pub mod simple_bank_system;
 pub mod simplified_fractions;
 pub mod single_element_in_a_stored_array;
 pub mod stock_price_fluctuation;
@@ -37,6 +38,8 @@ pub use minimum_time_difference::Solution as MinimumTimeDifference;
 pub use number_of_enclaves::Solution as NumberOfEnclaves;
 #[doc(inline)]
 pub use push_dominoes::Solution as PushDominoes;
+#[doc(inline)]
+pub use simple_bank_system::Bank as SimpleBankSystem;
 #[doc(inline)]
 pub use simplified_fractions::Solution as SimplifiedFractions;
 #[doc(inline)]

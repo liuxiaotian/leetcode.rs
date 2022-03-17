@@ -85,6 +85,8 @@ pub use medium::MinimumTimeDifference;
 #[doc(inline)]
 pub use medium::NumberOfEnclaves;
 #[doc(inline)]
+pub use medium::SimpleBankSystem;
+#[doc(inline)]
 pub use medium::SimplifiedFractions;
 #[doc(inline)]
 pub use medium::SingleElementInAStoredArray;
