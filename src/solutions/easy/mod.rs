@@ -1,6 +1,7 @@
 pub mod add_digits;
 pub mod base_7;
 pub mod calculate_money_in_leetcode_bank;
+pub mod construct_string_from_binary;
 pub mod contains_duplicate_ii;
 pub mod count_number_of_pairs_with_absolute_difference_k;
 pub mod count_of_matches_in_tournament;
@@ -30,6 +31,8 @@ pub use add_digits::Solution as AddDigits;
 pub use base_7::Solution as Base7;
 #[doc(inline)]
 pub use calculate_money_in_leetcode_bank::Solution as CalculateMoneyInLeetcodeBank;
+#[doc(inline)]
+pub use construct_string_from_binary::Solution as ConstructStringFromBinary;
 #[doc(inline)]
 pub use contains_duplicate_ii::Solution as ContainsDuplicateII;
 #[doc(inline)]

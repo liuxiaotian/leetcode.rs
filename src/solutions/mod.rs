@@ -9,6 +9,8 @@ pub use easy::Base7;
 #[doc(inline)]
 pub use easy::CalculateMoneyInLeetcodeBank;
 #[doc(inline)]
+pub use easy::ConstructStringFromBinary;
+#[doc(inline)]
 pub use easy::ContainsDuplicateII;
 #[doc(inline)]
 pub use easy::CountNumberOfPairsWithAbsoluteDifferenceK;
