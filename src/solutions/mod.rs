@@ -98,3 +98,5 @@ pub use medium::StockPriceFluctuation;
 pub use medium::StoneGameIX;
 #[doc(inline)]
 pub use medium::TheNumberOfWeakCharactersInTheGame;
+#[doc(inline)]
+pub use medium::TheTimeWhenTheNetworkBecomesIdle;

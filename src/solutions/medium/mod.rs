@@ -15,6 +15,7 @@ pub mod single_element_in_a_stored_array;
 pub mod stock_price_fluctuation;
 pub mod stone_game_ix;
 pub mod the_number_of_weak_characters_in_the_game;
+pub mod the_time_when_the_network_becomes_idle;
 
 #[doc(inline)]
 pub use add_two_numbers::Solution as AddTwoNumbers;
@@ -50,3 +51,5 @@ pub use stock_price_fluctuation::StockPrice as StockPriceFluctuation;
 pub use stone_game_ix::Solution as StoneGameIX;
 #[doc(inline)]
 pub use the_number_of_weak_characters_in_the_game::Solution as TheNumberOfWeakCharactersInTheGame;
+#[doc(inline)]
+pub use the_time_when_the_network_becomes_idle::Solution as TheTimeWhenTheNetworkBecomesIdle;
