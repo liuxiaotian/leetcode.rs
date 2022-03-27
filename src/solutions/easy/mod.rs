@@ -1,5 +1,6 @@
 pub mod add_digits;
 pub mod base_7;
+pub mod binary_number_with_alternating_bits;
 pub mod calculate_money_in_leetcode_bank;
 pub mod construct_string_from_binary;
 pub mod contains_duplicate_ii;
@@ -29,6 +30,8 @@ pub mod uncommon_words_from_two_sentences;
 pub use add_digits::Solution as AddDigits;
 #[doc(inline)]
 pub use base_7::Solution as Base7;
+#[doc(inline)]
+pub use binary_number_with_alternating_bits::Solution as BinaryNumberWithAlternatingBits;
 #[doc(inline)]
 pub use calculate_money_in_leetcode_bank::Solution as CalculateMoneyInLeetcodeBank;
 #[doc(inline)]

@@ -23,6 +23,7 @@ LeetCode solutions in Rust 🦀
 | 540  | Single Element in a Sorted Array                            | [📑](src/solutions/medium/single_element_in_a_stored_array.rs)      | ![Medium](img/medium.svg) |
 | 599  | Minimum Index Sum of Two Lists                              | [📑](src/solutions/easy/minimum_index_sum_of_two_lists.rs)    | ![Easy](img/easy.svg)     |
 | 606  | Construct String From Binary Tree                           | [📑](src/solutions/easy/construct_string_from_binary.rs)   | ![Easy](img/easy.svg)     |
+| 693  | Binary Number with Alternating Bits                         | [📑](src/solutions/easy/binary_number_with_alternating_bits.rs)     | ![Easy](img/easy.svg)     |
 | 717  | 1-bit and 2-bit Characters                                  | [📑](src/solutions/easy/one_bit_and_two_bit_characters.rs)    | ![Easy](img/easy.svg)     |
 | 747  | Largest Number At Least Twice of Others                     | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
 | 838  | Push Dominoes                                               | [📑](src/solutions/medium/push_dominoes.rs)                   | ![Medium](img/medium.svg) |
