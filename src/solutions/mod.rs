@@ -85,6 +85,8 @@ pub use medium::LongestHappyString;
 #[doc(inline)]
 pub use medium::LongestSubstringWithoutRepeatingCharacters;
 #[doc(inline)]
+pub use medium::MaximizeTheConfusionOfAnExam;
+#[doc(inline)]
 pub use medium::MinimumTimeDifference;
 #[doc(inline)]
 pub use medium::NumberOfEnclaves;

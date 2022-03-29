@@ -54,6 +54,7 @@ LeetCode solutions in Rust 🦀
 | 2043 | Simple Bank System                                          | [📑](src/solutions/medium/simple_back_system)                 | ![Medium](img/medium.svg) |
 | 2047 | Number of Valid Words in a Sentence                         | [📑](src/solutions/easy/number_of_valid_words_in_a_sentence.rs) | ![Easy](img/easy.svg)     |
 | 2013 | Detect Squares                                              | [📑](src/solutions/medium/detect_squares.rs)                  | ![Medium](img/medium.svg) |
+| 2024 | Maximize the Confusion of an Exam                           | [📑](src/solutions/medium/maximize_the_confusion_of_an_exam.rs)      | ![Medium](img/medium.svg) |
 | 2029 | Stone Game IX                                               | [📑](src/solutions/medium/stone_game_ix.rs)                   | ![Medium](img/medium.svg) |
 | 2034 | Stock Price Fluctuation                                     | [📑](src/solutions/medium/stock_price_fluctuation.rs)         | ![Medium](img/medium.svg) |
 | 2039 | The Time When the Network Becomes Idle                      | [📑](src/solutions/medium/the_time_when_the_network_becomes_idle.rs) | ![Medium](img/medium.svg) |

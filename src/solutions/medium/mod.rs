@@ -6,6 +6,7 @@ pub mod gray_code;
 pub mod increasing_triplet_subsequence;
 pub mod longest_happy_string;
 pub mod longest_substring_without_repeating_characters;
+pub mod maximize_the_confusion_of_an_exam;
 pub mod minimum_time_difference;
 pub mod number_of_enclaves;
 pub mod push_dominoes;
@@ -33,6 +34,8 @@ pub use increasing_triplet_subsequence::Solution as IncreasingTripletSubsequence
 pub use longest_happy_string::Solution as LongestHappyString;
 #[doc(inline)]
 pub use longest_substring_without_repeating_characters::Solution as LongestSubstringWithoutRepeatingCharacters;
+#[doc(inline)]
+pub use maximize_the_confusion_of_an_exam::Solution as MaximizeTheConfusionOfAnExam;
 #[doc(inline)]
 pub use minimum_time_difference::Solution as MinimumTimeDifference;
 #[doc(inline)]
