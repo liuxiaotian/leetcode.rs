@@ -41,6 +41,8 @@ pub use easy::NumberOfValidWordsInASentence;
 #[doc(inline)]
 pub use easy::OneBitAndTwoBitCharacters;
 #[doc(inline)]
+pub use easy::PrimeNumberOfSetBitsInBinaryRepresentation;
+#[doc(inline)]
 pub use easy::RemovePalindromicSubsequences;
 #[doc(inline)]
 pub use easy::ReplaceAllSToAvoidConsecutiveRepeatingCharacters;

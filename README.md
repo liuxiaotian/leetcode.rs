@@ -20,13 +20,14 @@ LeetCode solutions in Rust 🦀
 | 504  | Base 7                                                      | [📑](src/solutions/easy/base_7.rs)                            | ![Easy](img/easy.svg)     |
 | 521  | Longest Uncommon Subsequence I                              | [📑](src/solutions/easy/longest_uncommon_subsequence_i.rs)    | ![Easy](img/easy.svg)     |
 | 539  | Minimum Time Difference                                     | [📑](src/solutions/medium/minimum_time_difference.rs)         | ![Medium](img/medium.svg) |
-| 540  | Single Element in a Sorted Array                            | [📑](src/solutions/medium/single_element_in_a_stored_array.rs)      | ![Medium](img/medium.svg) |
+| 540  | Single Element in a Sorted Array                            | [📑](src/solutions/medium/single_element_in_a_stored_array.rs) | ![Medium](img/medium.svg) |
 | 599  | Minimum Index Sum of Two Lists                              | [📑](src/solutions/easy/minimum_index_sum_of_two_lists.rs)    | ![Easy](img/easy.svg)     |
-| 606  | Construct String From Binary Tree                           | [📑](src/solutions/easy/construct_string_from_binary.rs)   | ![Easy](img/easy.svg)     |
-| 693  | Binary Number with Alternating Bits                         | [📑](src/solutions/easy/binary_number_with_alternating_bits.rs)     | ![Easy](img/easy.svg)     |
+| 606  | Construct String From Binary Tree                           | [📑](src/solutions/easy/construct_string_from_binary.rs)      | ![Easy](img/easy.svg)     |
+| 693  | Binary Number with Alternating Bits                         | [📑](src/solutions/easy/binary_number_with_alternating_bits.rs) | ![Easy](img/easy.svg)     |
 | 717  | 1-bit and 2-bit Characters                                  | [📑](src/solutions/easy/one_bit_and_two_bit_characters.rs)    | ![Easy](img/easy.svg)     |
 | 728  | Self Dividing Numbers                                       | [📑](src/solutions/easy/self_dividing_numbers.rs)             | ![Easy](img/easy.svg)     |
 | 747  | Largest Number At Least Twice of Others                     | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
+| 762  | Prime Number of Set Bits in Binary Representation           | [📑](src/solutions/easy/prime_number_of_set_bits_in_binary_representation.rs) | ![Easy](img/easy.svg)     |
 | 838  | Push Dominoes                                               | [📑](src/solutions/medium/push_dominoes.rs)                   | ![Medium](img/medium.svg) |
 | 884  | Uncommon Words from Two Sentences                           | [📑](src/solutions/easy/uncommon_words_from_two_sentences.rs) | ![Easy](img/easy.svg)     |
 | 917  | Reverse Only Letters                                        | [📑](src/solutions/easy/reverse_only_letters.rs)              | ![Easy](img/easy.svg)     |
@@ -55,10 +56,9 @@ LeetCode solutions in Rust 🦀
 | 2043 | Simple Bank System                                          | [📑](src/solutions/medium/simple_back_system)                 | ![Medium](img/medium.svg) |
 | 2047 | Number of Valid Words in a Sentence                         | [📑](src/solutions/easy/number_of_valid_words_in_a_sentence.rs) | ![Easy](img/easy.svg)     |
 | 2013 | Detect Squares                                              | [📑](src/solutions/medium/detect_squares.rs)                  | ![Medium](img/medium.svg) |
-| 2024 | Maximize the Confusion of an Exam                           | [📑](src/solutions/medium/maximize_the_confusion_of_an_exam.rs)      | ![Medium](img/medium.svg) |
+| 2024 | Maximize the Confusion of an Exam                           | [📑](src/solutions/medium/maximize_the_confusion_of_an_exam.rs) | ![Medium](img/medium.svg) |
 | 2029 | Stone Game IX                                               | [📑](src/solutions/medium/stone_game_ix.rs)                   | ![Medium](img/medium.svg) |
 | 2034 | Stock Price Fluctuation                                     | [📑](src/solutions/medium/stock_price_fluctuation.rs)         | ![Medium](img/medium.svg) |
 | 2039 | The Time When the Network Becomes Idle                      | [📑](src/solutions/medium/the_time_when_the_network_becomes_idle.rs) | ![Medium](img/medium.svg) |
 | 2045 | Second Minimum Time to Reach Destination                    | [📑](src/solutions/hard/second_minimum_time_to_reach_destination.rs) | ![Hard](img/hard.svg)     |
 | 2047 | Number of Valid Words in a Sentence                         | [📑](src/solutions/easy/number_of_valid_words_in_a_sentence.rs) | ![Easy](img/easy.svg)     |
-

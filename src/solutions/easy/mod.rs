@@ -17,6 +17,7 @@ pub mod minimum_index_sum_of_two_lists;
 pub mod number_of_steps_to_reduce_a_number_to_zero;
 pub mod number_of_valid_words_in_a_sentence;
 pub mod one_bit_and_two_bit_characters;
+pub mod prime_number_of_set_bits_in_binary_representation;
 pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
 pub mod reverse_only_letters;
@@ -65,6 +66,8 @@ pub use number_of_steps_to_reduce_a_number_to_zero::Solution as NumberOfStepsToR
 pub use number_of_valid_words_in_a_sentence::Solution as NumberOfValidWordsInASentence;
 #[doc(inline)]
 pub use one_bit_and_two_bit_characters::Solution as OneBitAndTwoBitCharacters;
+#[doc(inline)]
+pub use prime_number_of_set_bits_in_binary_representation::Solution as PrimeNumberOfSetBitsInBinaryRepresentation;
 #[doc(inline)]
 pub use remove_palindromic_subsequences::Solution as RemovePalindromicSubsequences;
 #[doc(inline)]
