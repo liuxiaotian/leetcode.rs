@@ -22,6 +22,7 @@ pub mod remove_palindromic_subsequences;
 pub mod replace_all_s_to_avoid_consecutive_repeating_characters;
 pub mod reverse_only_letters;
 pub mod reverse_prefix_of_word;
+pub mod rotate_string;
 pub mod self_dividing_numbers;
 pub mod slowest_key;
 pub mod sum_of_unique_elements;
@@ -76,6 +77,8 @@ pub use replace_all_s_to_avoid_consecutive_repeating_characters::Solution as Rep
 pub use reverse_only_letters::Solution as ReverseOnlyLetters;
 #[doc(inline)]
 pub use reverse_prefix_of_word::Solution as ReversePrefixOfWord;
+#[doc(inline)]
+pub use rotate_string::Solution as RotateString;
 #[doc(inline)]
 pub use self_dividing_numbers::Solution as SelfDividingNumbers;
 #[doc(inline)]

@@ -51,6 +51,8 @@ pub use easy::ReverseOnlyLetters;
 #[doc(inline)]
 pub use easy::ReversePrefixOfWord;
 #[doc(inline)]
+pub use easy::RotateString;
+#[doc(inline)]
 pub use easy::SelfDividingNumbers;
 #[doc(inline)]
 pub use easy::SlowestKey;

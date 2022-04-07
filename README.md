@@ -28,6 +28,7 @@ LeetCode solutions in Rust 🦀
 | 728  | Self Dividing Numbers                                       | [📑](src/solutions/easy/self_dividing_numbers.rs)             | ![Easy](img/easy.svg)     |
 | 747  | Largest Number At Least Twice of Others                     | [📑](src/solutions/easy/largest_number_at_least_twice_of_others.rs) | ![Easy](img/easy.svg)     |
 | 762  | Prime Number of Set Bits in Binary Representation           | [📑](src/solutions/easy/prime_number_of_set_bits_in_binary_representation.rs) | ![Easy](img/easy.svg)     |
+| 796  | Rotate String                                               | [📑](src/solutions/easy/rotate_string.rs)                     | ![Easy](img/easy.svg)     |
 | 838  | Push Dominoes                                               | [📑](src/solutions/medium/push_dominoes.rs)                   | ![Medium](img/medium.svg) |
 | 884  | Uncommon Words from Two Sentences                           | [📑](src/solutions/easy/uncommon_words_from_two_sentences.rs) | ![Easy](img/easy.svg)     |
 | 917  | Reverse Only Letters                                        | [📑](src/solutions/easy/reverse_only_letters.rs)              | ![Easy](img/easy.svg)     |
